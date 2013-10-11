@@ -52,16 +52,22 @@
 ================================================== */
 	body {
 		background: #fff;
-		font: 14px/21px "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
+		font: 16px/24px "Lato", "Helvetica Neue", Helvetica, Arial, sans-serif;
 		color: #444;
 		-webkit-font-smoothing: antialiased; /* Fix for webkit rendering */
 		-webkit-text-size-adjust: 100%;
+		background-image: url(../images/gray_jean.png);
  }
 
 
 /* #Typography
 ================================================== */
-	h1, h2, h3, h4, h5, h6 {
+	h1 {
+		color: #181818;
+		font-family: "Lato", sans-serif;
+		font-weight: normal; 
+	}
+	h2, h3, h4, h5, h6 {
 		color: #181818;
 		font-family: "Georgia", "Times New Roman", serif;
 		font-weight: normal; }
@@ -89,7 +95,7 @@
 	blockquote cite:before { content: "\2014 \0020"; }
 	blockquote cite a, blockquote cite a:visited, blockquote cite a:visited { color: #555; }
 
-	hr { border: solid #ddd; border-width: 1px 0 0; clear: both; margin: 10px 0 30px; height: 0; }
+	hr { border: solid #999; border-width: 1px 0 0; clear: both; margin: 10px 0 20px; height: 0; }
 
 
 /* #Links

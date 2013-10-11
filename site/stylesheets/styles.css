@@ -1,0 +1,20 @@
+.center{
+	text-align: center;
+}
+
+.container{
+	padding-top:40px;
+}
+.bg{
+	background-color: #666;
+}
+
+.bottom{
+	font: 14px/21px "Lato", "Helvetica Neue", Helvetica, Arial, sans-serif;
+	color: #666;
+}
+
+ .right{
+ 	float:right; 
+ 	margin:0 0 1em 1em;
+ }
