@@ -12,10 +12,22 @@
 .bottom{
 	font: 14px/21px "Lato", "Helvetica Neue", Helvetica, Arial, sans-serif;
 	color: #666;
+	padding-bottom:20px;
 }
 
  .right{
  	float:right; 
  	margin:0 0 1em 1em;
  	border:;
+ }
+
+ .footer{
+ 	margin:0;
+ 	padding:0;
+ }
+
+ .footer li{
+ 	float:left;
+ 	display:inline-block;
+ 	margin-right:4px;
  }

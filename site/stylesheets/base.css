@@ -59,6 +59,12 @@
 		background-image: url(../images/gray_jean.png);
  }
 
+ i {
+ 	font-family: "Lato", "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-style: italic;
+	font-weight: 400;
+ }
+
 
 /* #Typography
 ================================================== */
