@@ -31,3 +31,10 @@
  	display:inline-block;
  	margin-right:4px;
  }
+
+ @media only screen and (max-width: 767px) {
+ 	.right{
+ 		width:80px;
+ 		height:80px;
+ 	}
+ }
